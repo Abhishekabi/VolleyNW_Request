@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleyNW_Request</string>
+    <string name="button">Get Page</string>
+</resources>
